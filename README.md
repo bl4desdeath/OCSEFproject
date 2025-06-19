@@ -69,7 +69,7 @@
     function showUntitled() {
       app.innerHTML = `
         <h2> Quiz Time! </h2>
-   <p>The quiz is in this form. Please fill it out: <a href="https://forms.gle/oB5qqu6SjsipHaNt8" target="_blank">https://forms.gle/oB5qqu6SjsipHaNt8</a></p>
+   <p>The quiz is in this form. Please fill it out: <a href="https://forms.gle/kHMc6pUioEaJ1YB48" target="_blank">https://forms.gle/kHMc6pUioEaJ1YB48</a></p>
         <button class="button" onclick="showMusicInput()">Continue</button>
       `;
     }
@@ -103,7 +103,7 @@
     function showUntitled2() {
       app.innerHTML = `
         <h2>Quiz Time!</h2>
-   <p>The quiz is in this form. Please fill it out:<a href="https://forms.gle/D5H6VCfijeknm5uV8" target="_blank">https://forms.gle/D5H6VCfijeknm5uV8</a></p>
+   <p>The quiz is in this form. Please fill it out: <a href="https://forms.gle/D5H6VCfijeknm5uV8" target="_blank">https://forms.gle/D5H6VCfijeknm5uV8</a></p>
         <button class="button" onclick="showResults()">Finish</button>
       `;
     }
